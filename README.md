@@ -1,7 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Sabrina Alves</h1>
 
 - 🔥 Student of Computer Science in UVA
 
@@ -39,18 +37,12 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/sabrina-a-brito/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  linkedin
 </a>
 <a href="https://www.instagram.com/sabrina_cjcj/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ instagram
 </a>
 </p>
-
-- 👋 Hi, I’m @Sabrina1408
-- 👀 I’m interested in books, tecnology, draws, music and others.
-- 🌱 I’m currently learning Git as a firt step in program.
-- 💞️ I’m looking to collaborate on some project to learn more about this site.
-- 📫 How to reach me on Instagram @sabrina_cjcj , https://sabrinaalves.tk
 
 <!---
 Sabrina1408/Sabrina1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
