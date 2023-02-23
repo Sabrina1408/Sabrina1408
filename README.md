@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Sabrina Alves</h1>
+<h1 align="left">Hi <img src="https://i.pinimg.com/originals/f7/26/2b/f7262b8c99b1d74a8cedfe1dc727ed87.gif" width="30px">, I'm Sabrina Alves</h1>
 
 - 🔥 Student of Computer Science in UVA
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [sabrinaaalves.tk](https://sabrinaalves.tk)
 
-- 💬 **JavaScript, HTML, CSS, SQL, Node.JS, Figma**
+- 💬 **JavaScript, React, HTML, CSS, SQL, Node.JS, Figma**
 
 <br><br>
 
@@ -36,9 +36,12 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
+<img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" width="30px">
 <a href="https://www.linkedin.com/in/sabrina-a-brito/" target="_blank">
   linkedin
 </a>
+&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" width="30px">
 <a href="https://www.instagram.com/sabrina_cjcj/" target="_blank">
  instagram
 </a>
