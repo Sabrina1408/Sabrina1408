@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://i.pinimg.com/originals/f7/26/2b/f7262b8c99b1d74a8cedfe1dc727ed87.gif" width="30px">, I'm Sabrina Alves</h1>
 
-- 🔥 Student of Computer Science in UVA
+- 🔥 Student of Computer Science at UVA
 
 - 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
 
